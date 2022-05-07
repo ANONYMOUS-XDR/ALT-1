@@ -2,9 +2,9 @@
 
 #### Created By TEAM ALT  
 ```
-[![](https://img.shields.io/badge/Author-green?logo=Author&logoColor=red&labelColor=*black)](https://github.com/BilalHaiderID) <br>
+[![Typing SVG](https://img.shields.io/badge/Author-green?logo=Author&logoColor=red&labelColor=*black)](https://github.com/BilalHaiderID) <br>
     • Bilal Haider ID
-[![](https://img.shields.io/badge/Team-green?logo=Author&logoColor=red&labelColor=*black)](https://github.com/BilalHaiderID) <br> 
+[![Typing SVG](https://img.shields.io/badge/Team-green?logo=Author&logoColor=red&labelColor=*black)](https://github.com/BilalHaiderID) <br> 
     • Shahzain David Joiya [SDJ]
     • Abdullah [DADA]
     • Mujtaba Khan [MK]
@@ -14,7 +14,6 @@
     • Syed Shahwaiz Shah 
     • Ali Raza [ADF]
     • Rana Mz [Zeshi]
-    • Bilal Haider ID
 ```
 #### ↦   Login Menu
 ```
