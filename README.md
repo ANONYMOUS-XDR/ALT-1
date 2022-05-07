@@ -2,7 +2,7 @@
 
 #### Created By TEAM ALT  
 ```
-[![Typing SVG](https://img.shields.io/badge/Author-green?logo=Author&logoColor=red&labelColor=*black)](https://github.com/BilalHaiderID) <br>
+[![Typing SVG](https://img.shields.io/badge/Author-green?logo=Author&logoColor=red&labelColor=*black)](https://git.io/typing-svg) <br>
     • Bilal Haider ID
 [![Typing SVG](https://img.shields.io/badge/Team-green?logo=Author&logoColor=red&labelColor=*black)](https://github.com/BilalHaiderID) <br> 
     • Shahzain David Joiya [SDJ]
